@@ -4,3 +4,6 @@
 [submodule "libft"]
 	path = libft
 	url = git@github.com:agil-ord/libft.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:agil-ord/ft_printf.git
