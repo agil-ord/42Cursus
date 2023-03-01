@@ -7,3 +7,6 @@
 [submodule "ft_printf"]
 	path = ft_printf
 	url = git@github.com:agil-ord/ft_printf.git
+[submodule "minitalk"]
+	path = minitalk
+	url = git@github.com:agil-ord/minitalk.git
